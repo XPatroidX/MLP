@@ -3,3 +3,5 @@
 
 #ignore .csv file
 digit.csv
+csv_files/mnist_train.csv
+csv_files/mnist_test.csv
